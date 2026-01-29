@@ -1,0 +1,13 @@
+gradio
+pypdf
+faiss-cpu
+sentence-transformers
+torch
+transformers
+pytz
+
+langchain
+langchain-community
+langchain-groq
+langchain-classic
+langchain-text-splitters
