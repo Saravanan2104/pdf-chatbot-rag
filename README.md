@@ -5,7 +5,7 @@ Users can upload text-based PDF files and ask questions based on the document co
 
 🔗 **Live Demo:** https://huggingface.co/spaces/Saravana21/pdf_chatbot  
 💼 **Portfolio:** https://saravanan-ai-developer.lovable.app
-💻 **Source Code:** https://github.com/YOUR_USERNAME/pdf-chatbot-rag
+
 
 ---
 
